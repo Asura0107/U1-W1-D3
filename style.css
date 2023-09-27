@@ -5,8 +5,9 @@ video {
 }
 body {
   font-family: "IBM Plex Serif", serif;
-  background-color: rgb(238 238 185 / 25%);
+  background-color: rgb(243 243 220 / 10%);
 }
+
 article {
   width: 700px;
   margin-inline: auto;
@@ -19,9 +20,10 @@ section {
 }
 .inizio {
   border-top: 2px solid rgb(219 219 108 / 33%);
-  background-color: rgb(231 231 190 / 34%);
+  background-color: rgb(226 226 198 / 17%);
   display: block;
   color: rgb(16 119 119);
+  margin: 0;
 }
 .logo-img {
   text-align: center;
