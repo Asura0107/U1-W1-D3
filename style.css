@@ -1,52 +1,47 @@
-
-video{
-    width: 700px;
-    border-radius: 20px;
-    box-shadow: 4px 4px 12px 0px;
+video {
+  width: 700px;
+  border-radius: 20px;
+  box-shadow: 4px 4px 12px 0px;
 }
-body{
-    font-family: 'IBM Plex Serif', serif;
-    background-color: rgb(238 238 185 / 25%);
+body {
+  font-family: "IBM Plex Serif", serif;
+  background-color: rgb(238 238 185 / 25%);
 }
-article{
-    width: 700px;
-    margin-inline: auto;
+article {
+  width: 700px;
+  margin-inline: auto;
 }
-h1{
-    text-align: center;
+h1 {
+  text-align: center;
 }
-section{
-    border-left: 4px solid rgb(217, 217, 118);
+section {
+  border-left: 4px solid rgb(217, 217, 118);
 }
-.inizio{
-    border-top: 2px solid rgb(219 219 108 / 33%);
-    background-color:rgb(231 231 190 / 34%);
-    display: block;
-    color: rgb(16 119 119);
-    
+.inizio {
+  border-top: 2px solid rgb(219 219 108 / 33%);
+  background-color: rgb(231 231 190 / 34%);
+  display: block;
+  color: rgb(16 119 119);
 }
-
-.logo-img{
-    text-align: center;
+.logo-img {
+  text-align: center;
 }
-.nota{
-    color: grey;
-    text-align: center;
+.nota {
+  color: grey;
+  text-align: center;
 }
-.logo-img hr{
-color: rgb(217, 217, 118);
-background: rgb(217, 217, 118);
-border: 0;
-height: 1px;
+.logo-img hr {
+  color: rgb(217, 217, 118);
+  background: rgb(217, 217, 118);
+  border: 0;
+  height: 1px;
 }
-article hr{
-    color: #80dcdcb5;
-    background: #94ebebb5;;
-    border: 0;
-    height: 1px;
+article hr {
+  color: #80dcdcb5;
+  background: #94ebebb5;
+  border: 0;
+  height: 1px;
 }
-footer{
-    margin-left: 27%;
+footer {
+  margin-left: 27%;
 }
-
-
