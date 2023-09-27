@@ -1,0 +1,50 @@
+
+
+body{
+    font-family: 'IBM Plex Serif', serif;
+    background-color: #f1f1e93b;
+}
+article{
+    width: 700px;
+    margin-inline: auto;
+}
+h1{
+    text-align: center;
+}
+section{
+    border-left: 4px solid rgb(217, 217, 118);
+}
+.inizio{
+    border-top: 1px solid rgb(217, 217, 118);
+    background-color:rgb(231, 231, 190);
+    display: block;
+    color: rgb(16 119 119);
+    
+}
+.second-img{
+    border-radius: 8px;
+}
+.logo-img{
+    text-align: center;
+}
+.nota{
+    color: grey;
+    text-align: center;
+}
+.logo-img hr{
+color: rgb(217, 217, 118);
+background: rgb(217, 217, 118);
+border: 0;
+height: 1px;
+}
+article hr{
+    color: #80dcdcb5;
+    background: #94ebebb5;;
+    border: 0;
+    height: 1px;
+}
+footer{
+    margin-left: 27%;
+}
+
+
